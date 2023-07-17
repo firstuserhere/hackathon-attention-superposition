@@ -8,3 +8,5 @@ For this hackathon, we did 4 projects all about superposition. In particular, we
 - implement Neuroscope for TinyStories
 - Train toy models for nonlinear computation in superposition, and reimplement their toy model results
 
+![alt image](heatmap_animation.gif)
+![alt image](heatmap_multi_animation.gif)
