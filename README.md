@@ -13,7 +13,7 @@ For this hackathon, we did 4 projects all about superposition. In particular, we
 
 ## Visualization of training run
 
-This is where our project submission image came from. For posterity, you can view for any head, though head 19 specifically was the one discussed in our submission.
+This is where our project submission image came from -- it just shows how the token and positional embedding project into the 2-dimensional `d_head` space for each head, animated across the course of the 1000-epoch training run. For posterity, you can view for any head, though head 19 specifically was the one discussed in our submission.
 
 | ![Head 0](attn_projection_anims/head-000.gif) | ![Head 1](attn_projection_anims/head-001.gif) |
 | --- | --- |
